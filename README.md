@@ -2,7 +2,7 @@
 
 Participants | Name | Student_ID | Task |
 --- | --- | --- | --- |
-**Leader** | **Huỳnh Thị Bích Tuyền** | **20522000**| *Leader*, *FE*, *BE*|
+**Leader** | **Huỳnh Thị Bích Tuyền** | **20522134**| *Leader*, *FE*, *BE*|
 **Member** | **Nguyễn Nhất Thưởng** | **20522000**| *FE*, *BE*|
 **Member** | **Lê Quang Hoà** | **20521331** | *DFD*, *report*|
 **Member** | **Kiều Xuân Diệu Hương**  | **20521381** | *Figma*, *UI/UX*|
