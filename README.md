@@ -8,14 +8,6 @@ Participants | Name | Student_ID | Task |
 **Member** | **Kiều Xuân Diệu Hương**  | **20521381** | *Figma*, *UI/UX*|
 **Member** | **Nguyễn Bảo Lâm** | **20521515** | *Figma*| 
  
- 
-> Task management table: [here](https://trello.com/invite/b/1JxH6dTT/ATTIe34f268745834a8f77f264f9fd1db14fE4D60B1C/system-management-design)
-
-
-> UI / UX prototype: [here](https://www.figma.com/file/hP8yLSFgwHDQFOx6kgKqUI/Fashion-Web-UI%2FUX?node-id=0%3A1&t=pNkmhqDvo2T8ANsl-1) 
-
-
-
 >Tech stacks:
 
 * Front-end: 
