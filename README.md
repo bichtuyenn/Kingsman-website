@@ -37,9 +37,3 @@ Participants | Name | Student_ID | Task |
 >Contact US
 <p>Gmail: 20522134@gm.uit.edu.vn</p>
 <p>Content is for educational purposes only</p>
-
-![alt text](./img_detail_git/insert_data.png)
-
-**3. Login**
-
-![alt text](./img_detail_git/login_admin.png) -->
